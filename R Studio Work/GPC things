@@ -1,0 +1,37 @@
+# Define a function to square numbers
+square <- function(x) {
+  return(x^2)
+}
+
+# Use lapply with the square function
+numbers <- list(1, 2, 3, 4, 5)
+squared_numbers <- lapply(numbers, square)
+print(squared_numbers)
+
+
+
+# Define a function to add 5 to numbers
+add_five <- function(x) {
+  return(x + 5)
+}
+
+# Use sapply with the add_five function
+numbers <- c(1, 2, 3, 4, 5)
+numbers_plus_five <- sapply(numbers, add_five)
+print(numbers_plus_five)
+
+
+# Define a function to calculate the mean
+calculate_mean <- function(x) {
+  return(mean(x))
+}
+
+# Create a matrix
+mat <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8, 9), nrow = 3)
+
+# Use apply with the calculate_mean function
+mean_values <- apply(mat, 2, calculate_mean)
+print(mean_values)
+
+
+
