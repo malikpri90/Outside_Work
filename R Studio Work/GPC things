@@ -33,5 +33,46 @@ mat <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8, 9), nrow = 3)
 mean_values <- apply(mat, 2, calculate_mean)
 print(mean_values)
 
+# Create a vector
+vec <- c(1, 2, 3, 4, 5)
 
+# Loop over the vector
+for(i in vec) {
+  # Check if the number is even or odd
+  if(i %% 2 == 0) {
+    print(paste(i, "is even"))
+  } else {
+    print(paste(i, "is odd"))
+  }
+}
+# Initialize a variable
+i <- 1
+
+# Loop while i is less than or equal to 5
+while(i <= 5) {
+  # Check if i is less than 3
+  if(i < 3) {
+    print(paste(i, "is less than 3"))
+  } else {
+    print(paste(i, "is greater than or equal to 3"))
+  }
+  # Increment i
+  i <- i + 1
+}
+
+# Create a matrix
+mat <- matrix(1:9, nrow = 3)
+
+# Loop over the rows
+for(i in 1:nrow(mat)) {
+  # Loop over the columns
+  for(j in 1:ncol(mat)) {
+    # Check if the element is greater than 5
+    if(mat[i, j] > 5) {
+      print(paste("Element at row", i, "and column", j, "is greater than 5"))
+    } else {
+      print(paste("Element at row", i, "and column", j, "is less than or equal to 5"))
+    }
+  }
+}
 
