@@ -9,4 +9,4 @@ pandas==1.3.3
 
 3) Install Jupyter Lab extension (optional). I find this an easy way to test code in blocks for data discovery and initial build. It can then be converted to a .py script at the end of the process for automation
 
-4) Test Fitzroy_discovery.ipynb script to make sure access works
+4) Test Fitzroy_discovery.ipynb script to make sure access works 
