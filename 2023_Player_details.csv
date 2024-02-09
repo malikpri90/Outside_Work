@@ -1,0 +1,478 @@
+"","No","surname","first_name","Games","Age","Date of Birth","Height","Weight","Origin","Position_1","Position_2"
+"1","3","Berry","Sam","39","21yr 11mth","12 Feb 2002","182cm","88kg","Gippsland Power","Midfield",NA
+"2","40","Bond","Hugh","0","19yr 4mth","25 Sep 2004","185cm","80kg","Greater Western Victoria Rebels","Defender","Midfield"
+"3","35","Borlase","James","4","21yr 6mth","18 Jul 2002","192cm","101kg","Sturt","Defender",NA
+"4","21","Burgess","Chris","36","28yr 2mth","26 Nov 1995","194cm","97kg","","Defender","Forward"
+"5","41","Butts","Jordon","60","24yr 1mth","31 Dec 1999","198cm","97kg","Murray Bushrangers","Defender",NA
+"6","15","Cook","Brayden","12","21yr 6mth","18 Jul 2002","191cm","85kg","South Adelaide","Midfield",NA
+"7","5","Crouch","Matt","143","28yr 9mth","21 Apr 1995","183cm","85kg","North Ballarat Rebels","Midfield",NA
+"8","6","Curtin","Daniel","0","18yr 10mth","8 Mar 2005","197cm","95kg","Claremont","Defender","Midfield"
+"9","12","Dawson","Jordan","109","26yr 9mth","9 Apr 1997","191cm","91kg","Sturt","Defender","Midfield"
+"10","31","Dowling","Billy","0","19yr 7mth","1 Jul 2004","187cm","80kg","North Adelaide","Midfield","Forward"
+"11","11","Edwards","Charlie","0","18yr 8mth","18 May 2005","191cm","85kg","Sandringham Dragons","Defender","Midfield"
+"12","32","Fogarty","Darcy","79","24yr 4mth","25 Sep 1999","194cm","100kg","Glenelg","Forward",NA
+"13","0","Gallagher","Karl","0","","","187cm","80kg","Monaghan","",NA
+"14","44","Gollant","Lachlan","12","22yr 4mth","12 Sep 2001","193cm","85kg","Calder Cannons","Forward",NA
+"15","17","Hamill","Will","38","23yr 2mth","17 Nov 2000","187cm","84kg","Dandenong Stingrays","Defender",NA
+"16","34","Himmelberg","Elliott","41","25yr 8mth","4 Jun 1998","199cm","99kg","Redlands","Forward",NA
+"17","20","Hinge","Mitchell","43","25yr 7mth","26 Jun 1998","190cm","90kg","Glenelg","Defender","Midfield"
+"18","1","Jones","Chayce","76","24yr","14 Jan 2000","182cm","84kg","Launceston","Defender","Midfield"
+"19","48","Keane","Mark","10","23yr 10mth","17 Mar 2000","194cm","96kg","Cork","Defender",NA
+"20","2","Keays","Ben","113","26yr 11mth","23 Feb 1997","186cm","86kg","Brisbane Reserves","Midfield","Forward"
+"21","29","Laird","Rory","224","30yr 1mth","29 Dec 1993","177cm","85kg","West Adelaide","Midfield",NA
+"22","25","McHenry","Ned","60","23yr 6mth","13 Jul 2000","179cm","81kg","Geelong Falcons","Forward",NA
+"23","16","Michalanney","Max","22","19yr 11mth","26 Feb 2004","190cm","80kg","Norwood","Defender",NA
+"24","30","Milera","Wayne","96","26yr 4mth","14 Sep 1997","184cm","88kg","Central District","Defender","Forward"
+"25","4","Murphy","Lachlan","98","25yr 2mth","4 Dec 1998","174cm","83kg","Adelaide Football Club","Forward",NA
+"26","28","Murray","Nick","46","23yr 1mth","18 Dec 2000","194cm","100kg","Allies","Defender",NA
+"27","27","Nankervis","Luke","4","20yr 8mth","25 May 2003","191cm","85kg","Sandringham Dragons","Defender","Midfield"
+"28","43","O'Brien","Reilly","100","28yr 5mth","20 Aug 1995","202cm","105kg","Calder Cannons","Ruck",NA
+"29","37","Parnell","Patrick","16","21yr 11mth","4 Mar 2002","178cm","76kg","Murray Bushrangers","Defender",NA
+"30","10","Pedlar","Luke","26","21yr 8mth","17 May 2002","183cm","84kg","Glenelg","Forward",NA
+"31","8","Rachele","Josh","34","20yr 9mth","11 Apr 2003","179cm","84kg","Murray Bushrangers","Midfield","Forward"
+"32","23","Rankine","Izak","68","23yr 9mth","23 Apr 2000","181cm","82kg","West Adelaide","Forward",NA
+"33","22","Ryan","Oscar","0","18yr 8mth","15 May 2005","187cm","77kg","Murray Bushrangers","Defender",NA
+"34","26","Schoenberg","Harry","57","22yr 11mth","21 Feb 2001","183cm","86kg","Woodville West Torrens","Midfield",NA
+"35","38","Sholl","Lachlan","54","23yr 10mth","7 Mar 2000","186cm","87kg","Calder Cannons","Midfield",NA
+"36","9","Sloane","Rory","255","33yr 10mth","17 Mar 1990","183cm","87kg","Eastern Ranges","Midfield",NA
+"37","33","Smith","Brodie","247","32yr","14 Jan 1992","189cm","88kg","Woodville West Torrens","Defender",NA
+"38","14","Soligo","Jake","37","21yr","25 Jan 2003","180cm","84kg","Eastern Ranges","Midfield","Forward"
+"39","45","Strachan","Kieran","5","28yr 4mth","5 Oct 1995","204cm","102kg","Port Melbourne","Ruck",NA
+"40","19","Taylor","Zac","0","21yr","31 Jan 2003","182cm","81kg","Calder Cannons","Midfield",NA
+"41","7","Thilthorpe","Riley","46","21yr 6mth","7 Jul 2002","202cm","103kg","West Adelaide Fc","Forward",NA
+"42","13","Walker","Taylor","260","33yr 9mth","25 Apr 1990","194cm","102kg","Broken Hill North","Forward",NA
+"43","24","Worrell","Josh","17","22yr 9mth","11 Apr 2001","195cm","93kg","Sandringham Dragons","Defender",NA
+"44","4","Ah Chee","Callum","117","26yr 3mth","9 Oct 1997","183cm","80kg","South Fremantle","Midfield",NA
+"45","31","Andrews","Harris","186","27yr 1mth","11 Dec 1996","202cm","98kg","Aspley","Defender",NA
+"46","43","Answerth","Noah","55","24yr 6mth","6 Aug 1999","183cm","82kg","Oakleigh Chargers","Defender","Forward"
+"47","8","Ashcroft","Will","18","19yr 9mth","6 May 2004","182cm","78kg","Sandringham Dragons","Midfield",NA
+"48","33","Bailey","Zac","118","24yr 4mth","23 Sep 1999","182cm","84kg","Norwood","Midfield","Forward"
+"49","7","Berry","Jarrod","133","26yr","5 Feb 1998","192cm","89kg","North Ballarat Rebels","Midfield",NA
+"50","34","Brain","Shadeau","0","19yr 11mth","13 Feb 2004","183cm","83kg","Noosa","Forward",NA
+"51","23","Cameron","Charlie","202","29yr 7mth","5 Jul 1994","180cm","76kg","Swan Districts","Forward",NA
+"52","18","Coleman","Keidean","64","23yr 10mth","31 Mar 2000","182cm","82kg","Brisbane","Defender",NA
+"53","3","Daniher","Joe","177","29yr 11mth","4 Mar 1994","201cm","96kg","Calder Cannons","Forward",NA
+"54","12","Doedee","Tom","82","26yr 11mth","1 Mar 1997","190cm","90kg","Geelong Falcons","Defender",NA
+"55","5","Dunkley","Josh","140","27yr","9 Jan 1997","191cm","87kg","Gippsland Power","Midfield","Forward"
+"56","28","Fletcher","Jaspa","14","19yr 11mth","24 Feb 2004","183cm","76kg","Brisbane Lions","Midfield",NA
+"57","32","Fort","Darcy","33","30yr 6mth","6 Aug 1993","204cm","98kg","Central District","Forward","Ruck"
+"58","27","Gardiner","Darcy","158","28yr 4mth","22 Sep 1995","192cm","91kg","Geelong Falcons","Defender",NA
+"59","30","Hipwood","Eric","153","26yr 4mth","13 Sep 1997","203cm","94kg","Aspley","Forward",NA
+"60","41","Joyce","Darragh","18","26yr 9mth","23 Apr 1997","195cm","96kg","Kilkenny","Defender",NA
+"61","45","Lane","Kalin","0","22yr 2mth","5 Dec 2001","205cm","101kg","Claremont","Ruck",NA
+"62","35","Lester","Ryan","180","31yr 5mth","26 Aug 1992","192cm","84kg","Oakleigh Chargers","Defender",NA
+"63","19","Lloyd","Luke","0","18yr 5mth","8 Aug 2005","193cm","84kg","Sandringham Dragons","Forward",NA
+"64","1","Lohmann","Kai","8","20yr 9mth","6 May 2003","185cm","77kg","GWV Rebels","Forward",NA
+"65","17","Lyons","Jarryd","191","31yr 6mth","22 Jul 1992","184cm","86kg","Sandringham Dragons","Midfield",NA
+"66","14","Madden","James","13","24yr 2mth","15 Nov 1999","188cm","88kg","Dublin","Defender",NA
+"67","11","McCarthy","Lincoln","143","30yr 3mth","22 Oct 1993","178cm","82kg","Glenelg","Forward",NA
+"68","6","McCluggage","Hugh","155","25yr 11mth","3 Mar 1998","185cm","84kg","North Ballarat Rebels","Midfield",NA
+"69","46","McInerney","Oscar","126","29yr 6mth","10 Jul 1994","204cm","110kg","Casey Scorpions","Ruck",NA
+"70","26","McKenna","Conor","105","27yr 10mth","28 Mar 1996","184cm","88kg","Eglish, Tyrone","Defender",NA
+"71","39","Michael","Carter","1","21yr 8mth","22 May 2002","188cm","83kg","Maroochydore","Defender",NA
+"72","13","Morris","Logan","0","18yr 8mth","10 May 2005","191cm","90kg","Western Jets","Forward",NA
+"73","9","Neale","Lachie","246","30yr 8mth","24 May 1993","178cm","84kg","Glenelg","Midfield",NA
+"74","40","Payne","Jack","50","24yr 3mth","15 Oct 1999","197cm","104kg","Lions Academy","Defender",NA
+"75","20","Prior","Jaxon","35","22yr 8mth","4 Jun 2001","189cm","85kg","West Perth","Defender","Midfield"
+"76","16","Rayner","Cameron","113","24yr 3mth","21 Oct 1999","186cm","93kg","Western Jets","Defender","Forward"
+"77","38","Reville","Bruce","0","22yr 11mth","22 Feb 2001","185cm","80kg","Coates Talent League Boys","Midfield","Forward"
+"78","2","Robertson","Deven","41","22yr 7mth","30 Jun 2001","185cm","84kg","Perth","Midfield","Forward"
+"79","24","Ryan","Brandon","3","26yr 2mth","7 Nov 1997","200cm","91kg","Northern Bullants","Forward",NA
+"80","22","Sharp","Harry","10","21yr 1mth","17 Dec 2002","182cm","76kg","Gwv Rebels","Midfield",NA
+"81","25","Smith","Henry","0","21yr 4mth","24 Sep 2002","206cm","98kg","Woodville-west Torrens","Forward","Ruck"
+"82","37","Starcevich","Brandon","97","24yr 6mth","24 Jul 1999","187cm","90kg","East Perth","Defender",NA
+"83","36","Torrent","Reece","0","18yr 6mth","3 Aug 2005","184cm","83kg","Peel Thunder","Midfield",NA
+"84","29","Tunstill","James","5","20yr 6mth","18 Jul 2003","187cm","81kg","East Perth","Midfield","Forward"
+"85","44","Wilmot","Darcy","29","20yr 1mth","31 Dec 2003","183cm","79kg","Northern Knights","Defender","Midfield"
+"86","21","Zakostelsky","Zane","0","18yr 1mth","14 Dec 2005","196cm","89kg","Claremont","Defender","Ruck"
+"87","15","Zorko","Dayne","250","34yr 11mth","9 Feb 1989","175cm","77kg","Broadbeach","Midfield","Forward"
+"88","13","Acres","Blake","145","28yr 3mth","7 Oct 1995","193cm","92kg","West Perth","Midfield",NA
+"89","41","Akuei","Domanic","0","21yr 8mth","12 May 2002","194cm","86kg","Carlton Academy","Defender","Ruck"
+"90","25","Binns","Jaxon","0","19yr 3mth","29 Oct 2004","183cm","72kg","Dandenong Stingrays","Midfield","Forward"
+"91","37","Boyd","Jordan","16","25yr 4mth","22 Sep 1998","182cm","81kg","Footscray","Defender",NA
+"92","16","Carroll","Jack","6","21yr 1mth","20 Dec 2002","188cm","83kg","East Fremantle","Midfield","Forward"
+"93","32","Carroll","Matt","0","18yr 2mth","28 Nov 2005","188cm","81kg","Sandringham Dragons","Defender",NA
+"94","5","Cerra","Adam","116","24yr 3mth","7 Oct 1999","188cm","87kg","Eastern Ranges","Midfield",NA
+"95","39","Cincotta","Alex","19","27yr 1mth","17 Dec 1996","187cm","86kg","Newtown","Defender","Midfield"
+"96","46","Cottrell","Matt","54","23yr 11mth","29 Feb 2000","184cm","83kg","Dandenong Stingrays","Midfield","Forward"
+"97","2","Cowan","Lachlan","7","19yr 2mth","1 Dec 2004","188cm","82kg","Tasmania Devils","Defender",NA
+"98","9","Cripps","Patrick","183","28yr 10mth","18 Mar 1995","195cm","93kg","East Fremantle","Midfield",NA
+"99","28","Cuningham","David","53","26yr 10mth","30 Mar 1997","183cm","83kg","Oakleigh Chargers","Midfield","Forward"
+"100","30","Curnow","Charlie","110","27yr","3 Feb 1997","194cm","94kg","Geelong Falcons","Forward",NA
+"101","12","De Koning","Tom","60","24yr 6mth","16 Jul 1999","201cm","102kg","Dandenong Stingrays","Ruck",NA
+"102","15","Docherty","Sam","167","30yr 3mth","17 Oct 1993","187cm","87kg","Gippsland Power","Defender","Midfield"
+"103","19","Durdin","Corey","34","21yr 9mth","14 Apr 2002","173cm","76kg","Central Districts","Forward",NA
+"104","38","Durdin","Sam","23","27yr 8mth","6 Jun 1996","199cm","100kg","West Adelaide","Defender",NA
+"105","14","Fantasia","Orazio","99","28yr 4mth","14 Sep 1995","180cm","73kg","Norwood","Forward",NA
+"106","8","Fogarty","Lachlan","55","24yr 10mth","1 Apr 1999","180cm","76kg","Western Jets","Midfield","Forward"
+"107","29","Hewett","George","157","28yr 1mth","29 Dec 1995","187cm","87kg","North Adelaide","Midfield",NA
+"108","20","Hollands","Elijah","14","21yr 9mth","25 Apr 2002","189cm","86kg","Murray Bushrangers","Midfield",NA
+"109","4","Hollands","Oliver","19","20yr","16 Jan 2004","184cm","72kg","Murray Bushrangers","Midfield",NA
+"110","17","Kemp","Brodie","23","22yr 9mth","1 May 2001","192cm","89kg","Bendigo Pioneers","Defender","Forward"
+"111","7","Kennedy","Matthew","94","26yr 10mth","6 Apr 1997","188cm","91kg","Collingullie Ashmont Kapooka","Defender","Midfield"
+"112","31","Lemmey","Harry","0","20yr","30 Jan 2004","201cm","95kg","West Adelaide","Forward",NA
+"113","22","Marchbank","Caleb","60","27yr 1mth","7 Dec 1996","193cm","92kg","Murray Bushrangers","Defender",NA
+"114","21","Martin","Jack","148","29yr","29 Jan 1995","186cm","82kg","Geraldton","Forward",NA
+"115","11","McGovern","Mitch","110","29yr 3mth","11 Oct 1994","190cm","88kg","Claremont","Defender",NA
+"116","10","McKay","Harry","107","26yr 1mth","24 Dec 1997","200cm","106kg","Gippsland Power","Forward",NA
+"117","45","Mirkov","Alex","0","24yr 2mth","17 Nov 1999","210cm","105kg","Carlton","Ruck",NA
+"118","43","Moir","Ashton","0","18yr 9mth","15 Apr 2005","188cm","85kg","Glenelg","Forward",NA
+"119","34","Monahan","Rob","","","","","","","",NA
+"120","3","Motlop","Jesse","33","20yr 2mth","23 Nov 2003","180cm","81kg","South Fremantle","Forward",NA
+"121","24","Newman","Nic","110","31yr","15 Jan 1993","186cm","80kg","Frankston","Defender",NA
+"122","40","O'Keeffe","Hudson","0","19yr 1mth","16 Dec 2004","202cm","94kg","Oakleigh Chargers","Ruck",NA
+"123","44","Owies","Matt","49","26yr 10mth","19 Mar 1997","179cm","81kg","St Kevins","Forward",NA
+"124","27","Pittonet","Marc","59","27yr 8mth","3 Jun 1996","202cm","107kg","Oakleigh Chargers","Ruck",NA
+"125","42","Saad","Adam","177","29yr 6mth","23 Jul 1994","178cm","79kg","Coburg","Defender",NA
+"126","1","Silvagni","Jack","115","26yr 1mth","17 Dec 1997","194cm","92kg","Oakleigh Chargers","Forward",NA
+"127","18","Walsh","Sam","99","23yr 7mth","2 Jul 2000","184cm","84kg","Geelong Falcons","Midfield",NA
+"128","23","Weitering","Jacob","159","26yr 2mth","23 Nov 1997","195cm","102kg","Mount Eliza Football Club","Defender",NA
+"129","6","Williams","Zachary","136","29yr 4mth","20 Sep 1994","186cm","85kg","Narrandera","Defender",NA
+"130","35","Wilson","Billy","0","18yr 7mth","16 Jun 2005","183cm","72kg","Dandenong Stringrays","Defender","Midfield"
+"131","33","Young","Lewis","58","25yr 1mth","20 Dec 1998","202cm","99kg","Sturt","Defender",NA
+"132","16","Allan","Edward","0","19yr 8mth","26 May 2004","194cm","84kg","Claremont","Midfield",NA
+"133","39","Begg","Aiden","3","21yr 3mth","8 Oct 2002","197cm","99kg","Eastern Ranges","Forward","Ruck"
+"134","14","Cameron","Darcy","72","28yr 6mth","18 Jul 1995","204cm","103kg","Claremont","Forward","Ruck"
+"135","45","Carmichael","Josh","8","24yr 4mth","23 Sep 1999","190cm","88kg","West Adelaide","Midfield","Forward"
+"136","46","Cox","Mason","113","32yr 10mth","14 Mar 1991","211cm","110kg","Oklahoma State","Forward","Ruck"
+"137","25","Crisp","Jack","226","30yr 4mth","2 Oct 1993","190cm","91kg","Murray Bushrangers","Midfield",NA
+"138","7","Daicos","Josh","103","25yr 2mth","26 Nov 1998","178cm","77kg","Oakleigh Chargers","Midfield",NA
+"139","35","Daicos","Nick","47","21yr 1mth","3 Jan 2003","184cm","79kg","Oakleigh Chargers","Defender","Midfield"
+"140","2","De Goey","Jordan","158","27yr 10mth","15 Mar 1996","188cm","93kg","Oakleigh Chargers","Midfield",NA
+"141","43","Dean","Charlie","0","22yr 7mth","19 Jun 2001","195cm","93kg","Williamstown VFL","Defender",NA
+"142","13","Demattia","Harry","0","18yr 4mth","11 Sep 2005","185cm","78kg","Dandenong Stingrays","Midfield",NA
+"143","5","Elliott","Jamie","179","31yr 5mth","21 Aug 1992","178cm","83kg","Murray Bushrangers","Forward",NA
+"144","17","Frampton","Billy","40","27yr 2mth","20 Nov 1996","201cm","100kg","South Fremantle","Defender","Ruck"
+"145","36","Harrison","Harvey","4","20yr 2mth","10 Nov 2003","181cm","83kg","North Adelaide","Forward",NA
+"146","23","Hill","Bobby","65","23yr 11mth","9 Feb 2000","175cm","71kg","Perth","Forward",NA
+"147","32","Hoskin-Elliott","Will","204","30yr 5mth","2 Sep 1993","186cm","82kg","Western Jets","Midfield","Forward"
+"148","38","Howe","Jeremy","233","33yr 7mth","29 Jun 1990","190cm","86kg","Hobart","Defender",NA
+"149","19","Jiath","Tew","0","18yr 11mth","2 Mar 2005","188cm","72kg","Gippsland Power","Defender",NA
+"150","40","Johnson","Ash","24","26yr 4mth","6 Oct 1997","193cm","91kg","Sturt","Forward",NA
+"151","15","Kreuger","Nathan","9","24yr 7mth","25 Jun 1999","196cm","98kg","South Adelaide","Forward","Ruck"
+"152","1","Lipinski","Patrick","95","25yr 6mth","17 Jul 1998","190cm","86kg","Northern Knights","Midfield","Forward"
+"153","18","Macrae","Finlay","12","21yr 10mth","13 Mar 2002","188cm","80kg","Oakleigh Chargers","Midfield","Forward"
+"154","37","Markov","Oleg","74","27yr 8mth","8 May 1996","188cm","85kg","North Adelaide","Defender",NA
+"155","4","Maynard","Brayden","186","27yr 4mth","20 Sep 1996","189cm","93kg","Sandringham Dragons","Defender",NA
+"156","31","McCreery","Beau","60","22yr 9mth","19 Apr 2001","186cm","86kg","South Adelaide","Forward",NA
+"157","26","McInnes","Reef","11","21yr 1mth","12 Dec 2002","194cm","90kg","Oakleigh Chargers","Forward",NA
+"158","11","McStay","Daniel","175","28yr 7mth","24 Jun 1995","195cm","99kg","Eastern Ranges","Forward",NA
+"159","41","Mihocek","Brody","126","31yr","4 Feb 1993","192cm","99kg","Port Melbourne","Forward",NA
+"160","6","Mitchell","Tom","197","30yr 8mth","31 May 1993","182cm","88kg","Claremont","Midfield",NA
+"161","30","Moore","Darcy","150","28yr","25 Jan 1996","203cm","100kg","Oakleigh Chargers","Defender",NA
+"162","28","Murphy","Nathan","57","24yr 1mth","15 Dec 1999","192cm","90kg","Sandringham Dragons","Defender",NA
+"163","9","Noble","John","92","26yr 10mth","25 Mar 1997","180cm","72kg","West Adelaide","Defender",NA
+"164","10","Pendlebury","Scott","383","36yr","7 Jan 1988","191cm","86kg","Gippsland Power","Midfield",NA
+"165","3","Quaynor","Isaac","85","24yr","15 Jan 2000","180cm","88kg","Oakleigh Chargers","Defender",NA
+"166","29","Richards","Joe","0","24yr 2mth","23 Nov 1999","177cm","73kg","Wangaratta Football & Netball Club Inc","Midfield","Forward"
+"167","24","Ryan","Jakob","1","19yr 4mth","20 Sep 2004","189cm","80kg","Glenelg","Defender",NA
+"168","8","Schultz","Lachlan","90","26yr 2mth","30 Nov 1997","178cm","81kg","Williamstown","Forward",NA
+"169","22","Sidebottom","Steele","309","33yr 1mth","2 Jan 1991","184cm","86kg","Murray Bushrangers","Midfield",NA
+"170","44","Steene","Oscar","0","20yr 5mth","23 Aug 2003","201cm","87kg","West Adelaide","Forward","Ruck"
+"171","26","Baldwin","Kaine","8","21yr 8mth","30 May 2002","193cm","97kg","Glenelg","Defender","Forward"
+"172","24","Bryan","Nick","14","22yr 3mth","22 Oct 2001","203cm","101kg","Oakleigh Chargers","Forward","Ruck"
+"173","30","Caddy","Nate","0","18yr 6mth","14 Jul 2005","193cm","88kg","Northern Knights","Forward",NA
+"174","6","Caldwell","Jye","55","23yr 4mth","28 Sep 2000","183cm","83kg","Bendigo Pioneers","Midfield","Forward"
+"175","13","Cox","Nikolas","33","22yr","15 Jan 2002","200cm","94kg","Northern Knights","Defender","Midfield"
+"176","33","Davey","Alwyn","10","19yr 11mth","26 Feb 2004","181cm","77kg","Oakleigh Chargers","Midfield","Forward"
+"177","36","Davey","Jayden","0","19yr 11mth","26 Feb 2004","180cm","79kg","Oakleigh Chargers","Forward",NA
+"178","2","Draper","Sam","57","25yr 4mth","28 Sep 1998","205cm","105kg","South Adelaide","Ruck",NA
+"179","22","Durham","Sam","49","22yr 6mth","9 Jul 2001","185cm","84kg","Richmond","Midfield",NA
+"180","28","Duursma","Xavier","73","23yr 6mth","7 Jul 2000","186cm","82kg","Gippsland Power","Midfield",NA
+"181","17","Goldstein","Todd","315","35yr 7mth","1 Jul 1988","201cm","101kg","Oakleigh","Ruck",NA
+"182","11","Gresham","Jade","136","26yr 5mth","24 Aug 1997","177cm","81kg","Northern Knights","Midfield","Forward"
+"183","35","Guelfi","Matt","96","26yr 5mth","14 Aug 1997","184cm","82kg","Claremont","Forward",NA
+"184","18","Hayes","Lewis","0","19yr 1mth","17 Dec 2004","199cm","84kg","Eastern Ranges","Defender",NA
+"185","21","Heppell","Dyson","235","31yr 8mth","14 May 1992","189cm","86kg","Gippsland Power","Defender","Midfield"
+"186","19","Hind","Nick","80","29yr 5mth","19 Aug 1994","180cm","78kg","Essendon Vfl","Defender",NA
+"187","8","Hobbs","Ben","35","20yr 4mth","16 Sep 2003","183cm","80kg","GWV Rebels","Midfield","Forward"
+"188","49","Hunter","Jaiden","0","21yr 9mth","20 Apr 2002","196cm","93kg","Perth","Forward",NA
+"189","23","Jones","Harrison","31","22yr 11mth","25 Feb 2001","196cm","88kg","Calder Cannons","Forward",NA
+"190","29","Kelly","Jake","148","29yr","21 Jan 1995","190cm","90kg","Oakleigh Chargers","Defender",NA
+"191","4","Langford","Kyle","130","27yr 2mth","1 Dec 1996","192cm","88kg","Northern Knights","Midfield","Forward"
+"192","15","Laverde","Jayden","110","27yr 9mth","12 Apr 1996","193cm","92kg","Western Jets","Defender",NA
+"193","34","Lual","Luamon","0","18yr 10mth","28 Mar 2005","181cm","72kg","Greater Western Victoria Rebels","Defender",NA
+"194","37","Martin","Nicholas","44","22yr 10mth","3 Apr 2001","192cm","86kg","Colts","Midfield","Forward"
+"195","1","McGrath","Andrew","134","25yr 8mth","2 Jun 1998","180cm","83kg","Sandringham Dragons","Defender","Midfield"
+"196","32","McKay","Ben","71","26yr 1mth","24 Dec 1997","202cm","104kg","Gippsland Power","Defender",NA
+"197","47","Menzie","Jye","23","21yr 3mth","28 Oct 2002","180cm","84kg","South Adelaide","Forward",NA
+"198","7","Merrett","Zachary","206","28yr 4mth","3 Oct 1995","179cm","83kg","Sandringham Dragons","Midfield",NA
+"199","3","Parish","Darcy","150","26yr 6mth","25 Jul 1997","180cm","81kg","Geelong Falcons","Midfield",NA
+"200","16","Perkins","Archie","62","21yr 10mth","26 Mar 2002","188cm","85kg","Sandringham Dragons","Forward",NA
+"201","27","Redman","Mason","103","26yr 5mth","26 Aug 1997","187cm","87kg","Glenelg","Defender",NA
+"202","31","Reid","Zach","8","21yr 11mth","2 Mar 2002","202cm","90kg","Gippsland Power","Defender",NA
+"203","14","Ridley","Jordan","85","25yr 3mth","20 Oct 1998","195cm","94kg","Oakleigh Chargers","Defender",NA
+"204","38","Roberts","Archie","0","18yr 2mth","18 Nov 2005","184cm","79kg","Sandringham Dragons","Defender",NA
+"205","12","Setterfield","Will","67","26yr","5 Feb 1998","192cm","87kg","Sandringham Dragons","Midfield","Forward"
+"206","9","Shiel","Dylan","211","30yr 10mth","9 Mar 1993","182cm","84kg","Aspendale","Midfield",NA
+"207","25","Stringer","Jake","189","29yr 9mth","25 Apr 1994","192cm","92kg","Bendigo Pioneers","Forward",NA
+"208","5","Tsatas","Elijah","4","19yr 3mth","18 Oct 2004","187cm","80kg","Oakleigh Chargers","Midfield","Forward"
+"209","39","Visentini","Vigo","0","18yr 5mth","5 Sep 2005","204cm","99kg","Sandringham Dragons","Ruck",NA
+"210","40","Wanganeen","Tex","5","20yr 3mth","10 Oct 2003","179cm","78kg","Oakleigh Chargers","Forward",NA
+"211","10","Weideman","Sam","75","26yr 7mth","26 Jun 1997","197cm","99kg","Eastern Ranges","Forward",NA
+"212","20","Wright","Peter","119","27yr 4mth","8 Sep 1996","203cm","102kg","Calder Cannons","Forward",NA
+"213","11","Aish","James","163","28yr 3mth","8 Oct 1995","183cm","83kg","Norwood","Midfield",NA
+"214","24","Amiss","Jye","25","20yr 6mth","31 Jul 2003","196cm","86kg","East Perth","Forward",NA
+"215","41","Banfield","Bailey","75","25yr 11mth","26 Feb 1998","190cm","88kg","Claremont","Forward",NA
+"216","8","Brayshaw","Andrew","123","24yr 2mth","8 Nov 1999","185cm","88kg","Sandringham Dragons","Midfield",NA
+"217","17","Brodie","Will","54","25yr 5mth","23 Aug 1998","190cm","89kg","Murray Bushrangers","Midfield",NA
+"218","5","Chapman","Heath","26","22yr","31 Jan 2002","193cm","87kg","West Perth","Defender",NA
+"219","6","Clark","Jordan","79","23yr 3mth","16 Oct 2000","185cm","83kg","Claremont","Defender",NA
+"220","19","Corbett","Josh","41","27yr 9mth","23 Apr 1996","190cm","88kg","Werribee","Forward",NA
+"221","36","Cox","Brennan","102","25yr 5mth","13 Aug 1998","195cm","97kg","Woodville-West Torrens","Defender",NA
+"222","4","Darcy","Sean","98","25yr 7mth","12 Jun 1998","203cm","111kg","Geelong Falcons","Ruck",NA
+"223","12","Davies","Hugh","0","19yr 4mth","28 Sep 2004","196cm","90kg","Claremont","Defender",NA
+"224","40","Delean","Jack","0","18yr 9mth","15 Apr 2005","181cm","77kg","South Adelaide","Forward",NA
+"225","37","Draper","Josh","0","19yr 11mth","8 Feb 2004","197cm","92kg","Peel Thunder","Defender","Forward"
+"226","18","Emmett","Tom","2","22yr 2mth","30 Nov 2001","186cm","89kg","Sturt","Forward",NA
+"227","28","Erasmus","Neil","19","20yr 2mth","2 Dec 2003","190cm","82kg","Subiaco","Midfield",NA
+"228","32","Frederick","Michael","58","23yr 8mth","17 May 2000","183cm","80kg","Eagles","Forward",NA
+"229","7","Fyfe","Nathan","218","32yr 4mth","18 Sep 1991","191cm","94kg","Claremont","Midfield","Forward"
+"230","15","Hughes","Ethan","101","29yr 1mth","7 Dec 1994","188cm","87kg","Swan Districts","Defender","Midfield"
+"231","9","Jackson","Luke","75","22yr 4mth","29 Sep 2001","199cm","102kg","East Fremantle","Forward","Ruck"
+"232","44","Johnson","Matt","18","20yr 10mth","16 Mar 2003","193cm","84kg","Subiaco","Midfield",NA
+"233","27","Jones","Odin","0","18yr 4mth","25 Sep 2005","199cm","96kg","West Perth","Ruck",NA
+"234","22","Knobel","Max","0","19yr 7mth","27 Jun 2004","206cm","93kg","Gippsland Power","Ruck",NA
+"235","43","Kuek","Sebit","0","23yr 2mth","11 Nov 2000","199cm","82kg","East Perth","Forward",NA
+"236","21","McDonald","Oscar","86","27yr 10mth","18 Mar 1996","196cm","100kg","North Ballarat Rebels","Defender","Forward"
+"237","33","Murphy","Ollie","0","18yr 4mth","16 Sep 2005","200cm","85kg","Sandringham Dragons","Defender",NA
+"238","30","O'Driscoll","Nathan","22","21yr 8mth","17 May 2002","188cm","82kg","Perth","Midfield",NA
+"239","2","O'Meara","Jaeger","164","29yr 11mth","23 Feb 1994","184cm","84kg","Perth Demons","Midfield",NA
+"240","25","Pearce","Alex","107","28yr 7mth","9 Jun 1995","201cm","98kg","Devonport","Defender",NA
+"241","42","Reidy","Liam","0","23yr 7mth","14 Jun 2000","204cm","104kg","Frankston Dolphins","Ruck",NA
+"242","13","Ryan","Luke","132","28yr","6 Feb 1996","186cm","92kg","Coburg","Defender",NA
+"243","3","Serong","Caleb","80","22yr 11mth","9 Feb 2001","180cm","87kg","Gippsland Power","Midfield",NA
+"244","14","Sharp","Jeremy","23","22yr 5mth","13 Aug 2001","189cm","81kg","East Fremantle","Midfield",NA
+"245","29","Simpson","Cooper","0","18yr 11mth","13 Feb 2005","182cm","79kg","Dandenong Stringrays","Midfield","Forward"
+"246","46","Stanley","Ethan","2","20yr 2mth","13 Nov 2003","188cm","81kg","Box Hill Hawks","Midfield","Forward"
+"247","1","Sturt","Sam","18","23yr 8mth","12 May 2000","190cm","81kg","Dandenong Stingrays","Forward",NA
+"248","39","Switkowski","Sam","68","27yr 2mth","20 Nov 1996","179cm","74kg","Box Hill Hawks","Forward",NA
+"249","20","Taberner","Matthew","120","30yr 7mth","17 Jun 1993","198cm","97kg","Murray Bushrangers","Forward",NA
+"250","35","Treacy","Josh","36","21yr 6mth","4 Aug 2002","195cm","92kg","Bendigo Pioneers","Forward",NA
+"251","34","Wagner","Corey","28","26yr 10mth","23 Mar 1997","181cm","77kg","Aspley","Defender","Midfield"
+"252","31","Walker","Brandon","45","21yr 3mth","17 Oct 2002","186cm","81kg","East Fremantle","Defender",NA
+"253","10","Walters","Michael","222","33yr","7 Jan 1991","176cm","77kg","Swan Districts","Forward",NA
+"254","45","Williams","Conrad","0","19yr 2mth","30 Nov 2004","184cm","65kg","Claremont","Midfield","Forward"
+"255","23","Worner","Karl","4","21yr 7mth","16 Jun 2002","188cm","83kg","Oakleigh Chargers","Defender","Midfield"
+"256","26","Young","Hayden","57","22yr 9mth","11 Apr 2001","189cm","88kg","Dandenong Stingrays","Defender",NA
+"257","30","Atkins","Tom","105","28yr 4mth","18 Sep 1995","180cm","86kg","Geelong","Defender","Midfield"
+"258","24","Bews","Jed","166","30yr 1mth","14 Dec 1993","186cm","90kg","Geelong Falcons","Defender",NA
+"259","46","Blicavs","Mark","246","32yr 10mth","28 Mar 1991","198cm","101kg","Geelong Vfl","Midfield","Ruck"
+"260","12","Bowes","Jack","100","26yr","26 Jan 1998","189cm","85kg","Cairns","Defender",NA
+"261","4","Bruhn","Tanner","49","21yr 8mth","27 May 2002","184cm","83kg","Geelong Falcons","Midfield","Forward"
+"262","5","Cameron","Jeremy","230","30yr 10mth","1 Apr 1993","196cm","94kg","Dartmore","Forward",NA
+"263","13","Clark","Jhye","1","19yr 6mth","23 Jul 2004","181cm","77kg","Geelong Falcons","Midfield",NA
+"264","40","Clohesy","Ted","1","19yr 5mth","6 Sep 2004","184cm","77kg","Mayo","Midfield","Forward"
+"265","45","Close","Bradley","76","25yr 6mth","30 Jul 1998","183cm","77kg","Glenelg","Forward",NA
+"266","6","Conway","Toby","1","20yr 9mth","24 Apr 2003","206cm","101kg","Geelong Falcons","Ruck",NA
+"267","35","Dangerfield","Patrick","321","33yr 10mth","5 Apr 1990","189cm","97kg","Geelong Falcons","Midfield",NA
+"268","16","De Koning","Sam","43","22yr 11mth","26 Feb 2001","204cm","97kg","Dandenong Stingrays","Defender",NA
+"269","28","Dempsey","Ollie","7","21yr","7 Jan 2003","187cm","74kg","Carey Grammar","Forward",NA
+"270","22","Duncan","Mitchell","274","32yr 7mth","10 Jun 1991","188cm","84kg","East Perth","Defender",NA
+"271","11","Edwards","Mitchell","0","18yr 8mth","2 Jun 2005","206cm","89kg","Peel Thunder","Ruck",NA
+"272","19","Foster","Phoenix","0","19yr 4mth","12 Sep 2004","197cm","88kg","Norwood","Forward","Ruck"
+"273","37","Furphy","Joe","0","24yr 6mth","5 Aug 1999","202cm","87kg","Northern Knights","Ruck",NA
+"274","29","Guthrie","Cameron","236","31yr 5mth","19 Aug 1992","187cm","87kg","Calder Cannons","Midfield",NA
+"275","39","Guthrie","Zach","77","25yr 7mth","30 Jun 1998","188cm","84kg","Calder Cannons","Defender",NA
+"276","41","Hardie","Mitch","0","26yr 5mth","5 Sep 1997","185cm","84kg","Woodville-West Torrens","Midfield",NA
+"277","26","Hawkins","Tom","347","35yr 6mth","21 Jul 1988","197cm","105kg","Melbourne Grammar","Forward",NA
+"278","38","Henry","Jack","118","25yr 5mth","29 Aug 1998","192cm","96kg","Geelong Falcons","Defender",NA
+"279","36","Henry","Oliver","47","21yr 6mth","29 Jul 2002","189cm","80kg","Geelong Falcons","Forward",NA
+"280","9","Holmes","Max","51","21yr 5mth","29 Aug 2002","190cm","85kg","Sandringham Dragons","Midfield",NA
+"281","17","Humphries","Lawson","0","20yr 9mth","24 Apr 2003","182cm","77kg","Swan Districts","Defender","Midfield"
+"282","43","Jeka","Emerson","7","22yr 4mth","18 Sep 2001","198cm","92kg","Western Jets","Defender","Forward"
+"283","10","Knevitt","Mitchell","10","21yr","8 Jan 2003","193cm","85kg","Geelong Falcons","Midfield",NA
+"284","8","Kolodjashnij","Jake","174","28yr 5mth","9 Aug 1995","193cm","100kg","Launceston","Defender",NA
+"285","7","Mannagh","Shaun","","","","","","","",NA
+"286","32","Miers","Gryan","106","24yr 10mth","30 Mar 1999","179cm","81kg","Geelong Falcons","Forward",NA
+"287","34","Mullin","Oisin","6","23yr 11mth","11 Feb 2000","182cm","85kg","Mayo","Defender",NA
+"288","31","Murdoch","Oscar","0","19yr 4mth","24 Sep 2004","190cm","93kg","Geelong Falcons","Defender",NA
+"289","33","Neale","Shannon","5","21yr 6mth","25 Jul 2002","203cm","101kg","South Fremantle","Forward",NA
+"290","42","O'Connor","Mark","109","27yr","17 Jan 1997","189cm","88kg","Ireland","Defender","Midfield"
+"291","14","O'Sullivan","Connor","0","18yr 8mth","19 May 2005","198cm","92kg","Murray Bushrangers","Defender",NA
+"292","3","Parfitt","Brandan","121","25yr 9mth","27 Apr 1998","180cm","82kg","Nt Thunder","Midfield",NA
+"293","23","Rohan","Gary","192","32yr 7mth","7 Jun 1991","189cm","92kg","Geelong Falcons","Forward",NA
+"294","1","Stanley","Rhys","196","33yr 2mth","1 Dec 1990","200cm","102kg","West Adelaide","Ruck",NA
+"295","18","Stengle","Tyson","60","25yr 3mth","19 Oct 1998","175cm","71kg","Woodville West Torrens","Forward",NA
+"296","15","Stevens","George","0","18yr 9mth","14 Apr 2005","189cm","101kg","Greater Western Victoria Rebels","Midfield",NA
+"297","44","Stewart","Thomas","148","30yr 10mth","15 Mar 1993","190cm","88kg","Geelong Vfl","Defender",NA
+"298","2","Tuohy","Zach","270","34yr 1mth","10 Dec 1989","187cm","94kg","County Laois, Ireland","Defender","Midfield"
+"299","20","Willis","James","0","20yr 6mth","10 Jul 2003","181cm","81kg","North Adelaide","Midfield","Forward"
+"300","21","Wiltshire","Oliver","0","21yr 4mth","15 Sep 2002","180cm","67kg","Barwon Heads","Midfield","Forward"
+"301","9","Ainsworth","Ben","117","25yr 11mth","10 Feb 1998","178cm","77kg","Gippsland Power","Forward",NA
+"302","15","Anderson","Noah","81","22yr 11mth","17 Feb 2001","192cm","88kg","Oakleigh Chargers","Midfield",NA
+"303","31","Andrew","Mac","21","20yr 2mth","4 Dec 2003","202cm","84kg","Dandenong Stingrays","Defender",NA
+"304","2","Atkins","Rory","135","29yr 6mth","12 Jul 1994","185cm","82kg","Calder Cannons","Defender","Midfield"
+"305","10","Ballard","Charlie","110","24yr 6mth","23 Jul 1999","196cm","95kg","Sturt","Defender",NA
+"306","16","Berry","Thomas","26","23yr 9mth","1 May 2000","185cm","80kg","Gwv Rebels","Forward",NA
+"307","45","Brock","Sandy","0","21yr 1mth","14 Dec 2002","198cm","90kg","Peel Thunder","Defender",NA
+"308","35","Budarick","Connor","28","22yr 10mth","6 Apr 2001","175cm","75kg","Gold Coast Suns Academy","Defender",NA
+"309","30","Casboult","Levi","195","33yr 10mth","15 Mar 1990","199cm","104kg","Dandenong Stingrays","Forward",NA
+"310","33","Clohesy","Sam","","","","","","","",NA
+"311","25","Collins","Samuel","104","29yr 7mth","15 Jun 1994","194cm","98kg","Box Hill Hawks","Defender",NA
+"312","5","Davies","Alex","25","21yr 10mth","18 Mar 2002","193cm","89kg","Suns Academy","Midfield","Forward"
+"313","12","Day","Sam","150","31yr 5mth","6 Sep 1992","196cm","106kg","Sturt","Forward",NA
+"314","4","Ellis","Brandon","247","30yr 6mth","3 Aug 1993","181cm","81kg","Calder Cannons","Defender","Midfield"
+"315","50","Farrar","Jy","34","27yr 1mth","7 Dec 1996","190cm","81kg","Scotch OC","Defender",NA
+"316","37","Faulkhead","Oskar","0","20yr 11mth","11 Feb 2003","183cm","77kg","Bendigo Pioneers","Midfield","Forward"
+"317","8","Fiorini","Brayden","93","26yr 5mth","22 Aug 1997","187cm","82kg","Northern Knights","Midfield",NA
+"318","3","Flanders","Sam","44","22yr 6mth","24 Jul 2001","183cm","81kg","Gippsland Power","Midfield","Forward"
+"319","46","Graham","Caleb","37","23yr 4mth","12 Sep 2000","194cm","97kg","Gold Coast Academy","Defender",NA
+"320","26","Graham","Will","0","18yr 6mth","27 Jul 2005","186cm","81kg","Palm Beach Currumbin AFC","Defender","Midfield"
+"321","7","Holman","Nicholas","110","28yr 8mth","29 May 1995","188cm","86kg","Central District","Forward",NA
+"322","19","Humphrey","Bailey","19","19yr 4mth","11 Sep 2004","186cm","86kg","Gippsland Power","Midfield","Forward"
+"323","40","Jeffrey","Joel","16","21yr 10mth","12 Mar 2002","192cm","86kg","Suns Academy","Defender","Forward"
+"324","38","Johnston","Lloyd","2","19yr 4mth","21 Sep 2004","184cm","76kg","NT Thunder","Defender",NA
+"325","34","King","Ben","73","23yr 6mth","7 Jul 2000","202cm","98kg","Sandringham Dragons","Forward",NA
+"326","23","Lemmens","Sean","145","29yr 3mth","2 Nov 1994","184cm","81kg","Port Adelaide","Defender",NA
+"327","22","Long","Ben","94","26yr 5mth","21 Aug 1997","186cm","81kg","Nt Thunder","Defender","Forward"
+"328","13","Lukosius","Jack","95","23yr 5mth","9 Aug 2000","195cm","91kg","Woodville-West Torrens","Forward",NA
+"329","44","Macpherson","Darcy","95","26yr 3mth","29 Oct 1997","175cm","76kg","Northern Knights","Defender","Forward"
+"330","42","Mahony","Jack","44","22yr 2mth","12 Nov 2001","177cm","73kg","Sandringham Dragons","Midfield","Forward"
+"331","11","Miller","Touk","173","27yr 11mth","22 Feb 1996","178cm","84kg","Calder Cannons","Midfield",NA
+"332","49","Moyle","Ned","2","21yr 11mth","15 Feb 2002","206cm","104kg","Oakleigh Chargers","Ruck",NA
+"333","47","Oea","Hewago","13","22yr 2mth","13 Nov 2001","177cm","74kg","Suns Academy","Midfield","Forward"
+"334","27","Powell","Wil","87","24yr 5mth","26 Aug 1999","188cm","87kg","Claremont","Defender",NA
+"335","20","Read","Ethan","0","18yr 6mth","7 Jul 2005","202cm","92kg","Palm Beach Currumbin AFC","Ruck",NA
+"336","29","Rogers","Jake","0","18yr 11mth","2 Mar 2005","172cm","68kg","Broadbeach AFC","Midfield",NA
+"337","41","Rosas","Malcolm","38","22yr 7mth","27 Jun 2001","180cm","73kg","NT Thunder","Forward",NA
+"338","18","Rowell","Matt","62","22yr 7mth","1 Jul 2001","180cm","82kg","Oakleigh Chargers","Midfield",NA
+"339","36","Rowlands","Will","0","18yr 7mth","19 Jun 2005","179cm","76kg","Norwood","Midfield","Forward"
+"340","6","Sexton","Alex","166","30yr 2mth","3 Dec 1993","186cm","82kg","Redland","Forward",NA
+"341","24","Swallow","David","220","31yr 2mth","19 Nov 1992","186cm","87kg","East Fremantle","Midfield",NA
+"342","21","Tsitas","James","5","28yr 11mth","3 Mar 1995","181cm","83kg","Geelong Falcons","Midfield","Forward"
+"343","32","Uwland","Bodhi","3","20yr 6mth","25 Jul 2003","188cm","89kg","Allies","Defender","Midfield"
+"344","17","Walter","Jed","0","18yr 7mth","8 Jun 2005","195cm","97kg","Palm Beach Currumbin AFC","Forward",NA
+"345","14","Weller","Lachlan","136","27yr 11mth","23 Feb 1996","182cm","80kg","Southport","Defender",NA
+"346","28","Witts","Jarrod","165","31yr 4mth","13 Sep 1992","209cm","110kg","Sydney University","Ruck",NA
+"347","21","Aleer","Leek","4","22yr 5mth","21 Aug 2001","194cm","88kg","Central District","Defender",NA
+"348","9","Angwin","Ryan","16","21yr 1mth","12 Dec 2002","185cm","81kg","Gippsland Power","Midfield","Forward"
+"349","7","Ash","Lachlan","82","22yr 7mth","21 Jun 2001","188cm","85kg","Murray Bushrangers","Defender","Midfield"
+"350","14","Bedford","Toby","37","23yr 8mth","27 May 2000","179cm","75kg","Dandenong Stingrays","Forward",NA
+"351","32","Briggs","Kieren","26","24yr 4mth","6 Oct 1999","201cm","108kg","Pennant Hills","Ruck",NA
+"352","46","Brown","Callum","29","23yr 5mth","15 Aug 2000","188cm","95kg","County Derry","Defender","Forward"
+"353","44","Buckley","Jack","43","26yr 1mth","17 Dec 1997","195cm","91kg","Swans Academy","Defender",NA
+"354","5","Cadman","Aaron","12","19yr 11mth","3 Mar 2004","195cm","93kg","Greater Western Victoria Rebels","Forward",NA
+"355","17","Callaghan","Finn","26","20yr 9mth","26 Apr 2003","192cm","86kg","Sandringham Dragons","Midfield",NA
+"356","3","Coniglio","Stephen","202","30yr 1mth","15 Dec 1993","182cm","83kg","Swan Districts","Midfield","Forward"
+"357","13","Cumming","Isaac","75","25yr 5mth","11 Aug 1998","188cm","84kg","Broken Hill","Defender","Midfield"
+"358","16","Daniels","Brent","82","24yr 10mth","9 Mar 1999","172cm","75kg","Bendigo Pioneers","Forward",NA
+"359","45","Derksen","Wade","0","22yr 7mth","18 Jun 2001","194cm","90kg","Peel Thunder","Forward",NA
+"360","34","Fahey","Josh","7","20yr 2mth","11 Nov 2003","187cm","82kg","GWS Academy","Defender","Midfield"
+"361","37","Fonti","Joseph","0","19yr 1mth","24 Dec 2004","189cm","73kg","Claremont","Defender",NA
+"362","29","Gothard","Phoenix","0","18yr 4mth","7 Sep 2005","179cm","72kg","Murray Bushrangers","Forward",NA
+"363","12","Green","Tom","67","23yr","23 Jan 2001","192cm","92kg","GWS Giants Academy","Midfield",NA
+"364","4","Greene","Toby","215","30yr 4mth","25 Sep 1993","182cm","85kg","Oakleigh Chargers","Forward",NA
+"365","35","Gruzewski","Max","0","19yr 6mth","21 Jul 2004","192cm","86kg","Oakleigh Chargers","Defender","Forward"
+"366","43","Hamilton","Cooper","8","20yr 4mth","24 Sep 2003","185cm","88kg","Bendigo Pioneers","Defender","Midfield"
+"367","19","Haynes","Nick","203","31yr 8mth","18 May 1992","192cm","88kg","Dandenong Stingrays","Defender",NA
+"368","27","Himmelberg","Harrison","152","27yr 8mth","8 May 1996","195cm","94kg","Mangoplah Cookardinia United Eastlakes","Defender","Forward"
+"369","23","Hogan","Jesse","140","28yr 11mth","12 Feb 1995","196cm","100kg","Claremont","Forward",NA
+"370","39","Idun","Connor","68","23yr 6mth","29 Jul 2000","193cm","92kg","Geelong Falcons","Defender",NA
+"371","2","Jones","Darcy","0","19yr 10mth","3 Apr 2004","175cm","63kg","Swan Districts","Midfield","Forward"
+"372","25","Keeffe","Lachlan","111","33yr 9mth","14 Apr 1990","204cm","101kg","Queensland Under 18s","Defender","Forward"
+"373","22","Kelly","Joshua","198","28yr 11mth","12 Feb 1995","184cm","82kg","Sandringham Dragons","Midfield",NA
+"374","40","Kennedy","Adam","153","31yr 6mth","12 Jul 1992","183cm","80kg","Western Jets","Defender","Forward"
+"375","30","Leake","James","0","18yr 4mth","2 Oct 2005","188cm","77kg","Tasmania Devils","Defender",NA
+"376","41","Madden","Nick","0","19yr 8mth","17 May 2004","204cm","112kg","Greater Western Sydney","Forward","Ruck"
+"377","31","McMullin","Toby","3","19yr 6mth","6 Aug 2004","183cm","83kg","Sandringham Dragons","Forward",NA
+"378","33","O'Halloran","Xavier","48","23yr 6mth","11 Jul 2000","187cm","89kg","Western Jets","Midfield","Forward"
+"379","20","Peatling","James","26","23yr 5mth","21 Aug 2000","186cm","79kg","GWS Giants","Forward",NA
+"380","36","Perryman","Harry","108","25yr 1mth","19 Dec 1998","187cm","83kg","Collingullie","Defender","Midfield"
+"381","11","Preuss","Braydon","28","28yr 7mth","16 Jun 1995","207cm","118kg","Surfers Paradise","Ruck",NA
+"382","26","Riccardi","Jake","50","24yr 2mth","7 Nov 1999","198cm","100kg","Werribee","Forward",NA
+"383","24","Rowston","Harry","7","19yr 5mth","12 Aug 2004","182cm","82kg","Griffith Swans FNC","Midfield",NA
+"384","18","Stone","Conor","9","21yr 9mth","22 Apr 2002","189cm","87kg","Oakleigh Chargers","Forward",NA
+"385","15","Taylor","Sam","93","24yr 9mth","5 May 1999","198cm","95kg","Swan Districts","Defender",NA
+"386","28","Thomas","Harvey","0","18yr 5mth","8 Aug 2005","176cm","69kg","GWS Giants Academy","Midfield","Forward"
+"387","8","Ward","Callan","295","33yr 9mth","10 Apr 1990","187cm","83kg","Western Jets","Midfield","Forward"
+"388","42","Wardius","Nathan","0","19yr 3mth","12 Oct 2004","181cm","68kg","Rand-Walbundrie-Walla","Forward",NA
+"389","10","Wehr","Jacob","14","25yr 7mth","5 Jul 1998","185cm","75kg","Woodville-west Torrens","Midfield",NA
+"390","6","Whitfield","Lachie","209","29yr 6mth","18 Jul 1994","185cm","83kg","Dandenong Stingrays","Defender","Midfield"
+"391","10","Amon","Karl","145","28yr 5mth","19 Aug 1995","181cm","71kg","Sandringham Dragons","Midfield",NA
+"392","41","Bennetts","Joshua","0","19yr 5mth","9 Aug 2004","178cm","76kg","Eastern Ranges","Midfield","Forward"
+"393","36","Blanck","James","24","23yr 2mth","20 Nov 2000","196cm","93kg","Box Hill Hawks","Defender",NA
+"394","22","Breust","Luke","281","33yr 2mth","11 Nov 1990","182cm","82kg","Temora","Forward",NA
+"395","30","Butler","Sam","17","20yr 11mth","10 Feb 2003","184cm","81kg","GWV Rebels","Forward",NA
+"396","18","Chol","Mabior","61","27yr","29 Jan 1997","200cm","98kg","Aspley","Forward",NA
+"397","16","D'Ambrosio","Massimo","16","20yr 8mth","5 Jun 2003","178cm","80kg","Western Jets","Defender",NA
+"398","12","Day","Will","54","22yr 8mth","5 Jun 2001","191cm","83kg","West Adelaide","Defender","Midfield"
+"399","35","Dear","Calsher","0","18yr 6mth","4 Aug 2005","195cm","87kg","Sandringham Dragons","Forward",NA
+"400","8","Frost","Sam","159","30yr 5mth","28 Aug 1993","194cm","94kg","Sandringham Dragons","Defender",NA
+"401","33","Ginnivan","Jack","42","21yr 1mth","9 Dec 2002","185cm","85kg","Bendigo Pioneers","Forward",NA
+"402","24","Grainger-Barras","Denver","28","21yr 9mth","17 Apr 2002","194cm","84kg","Swan Districts","Defender","Forward"
+"403","19","Gunston","Jack","242","32yr 3mth","16 Oct 1991","193cm","86kg","Sandringham","Forward",NA
+"404","15","Hardwick","Blake","147","27yr","5 Feb 1997","183cm","84kg","Eastern Ranges","Defender",NA
+"405","44","Hustwaite","Henry","2","19yr 6mth","20 Jul 2004","195cm","84kg","Dandenong Stingrays","Midfield",NA
+"406","4","Impey","Jarman","172","28yr 6mth","9 Jul 1995","178cm","79kg","Murray Bushrangers","Defender",NA
+"407","9","Jiath","Changkuoth","45","24yr 7mth","13 Jun 1999","185cm","78kg","Ethiopia","Defender",NA
+"408","2","Lewis","Mitchell","66","25yr 3mth","14 Oct 1998","199cm","99kg","Calder Cannons","Forward",NA
+"409","31","MacDonald","Connor","41","21yr","13 Jan 2003","185cm","79kg","Dandenong Stingrays","Forward",NA
+"410","42","Macdonald","Bailey","2","19yr 6mth","4 Aug 2004","182cm","74kg","Oakleigh Chargers","Defender",NA
+"411","28","Mackenzie","Cameron","14","20yr","21 Jan 2004","188cm","82kg","Sandringham Dragons","Midfield","Forward"
+"412","32","Maginness","Finn","32","22yr 11mth","23 Feb 2001","189cm","88kg","Sandringham Dragons","Defender","Midfield"
+"413","27","McCabe","William","0","18yr 4mth","29 Sep 2005","197cm","86kg","Tanunda","Defender",NA
+"414","17","Meek","Lloyd","31","25yr 9mth","22 Apr 1998","203cm","109kg","Gwv Rebels","Forward","Ruck"
+"415","40","Mitchell","Seamus","14","21yr 7mth","3 Jul 2002","181cm","80kg","Bendigo Pioneers","Defender","Forward"
+"416","13","Moore","Dylan","75","24yr 6mth","4 Aug 1999","177cm","77kg","Eastern Ranges","Forward",NA
+"417","1","Morrison","Harry","91","25yr 2mth","12 Nov 1998","184cm","79kg","Murray Bushrangers","Midfield",NA
+"418","11","Nash","Conor","73","25yr 6mth","28 Jul 1998","198cm","94kg","Dublin","Midfield",NA
+"419","3","Newcombe","Jai","51","22yr 6mth","2 Aug 2001","187cm","92kg","Box Hill","Midfield",NA
+"420","43","O'Sullivan","Jack","0","19yr 3mth","22 Oct 2004","177cm","72kg","Oakleigh Chargers","Forward",NA
+"421","38","Ramsden","Max","2","20yr 9mth","19 Apr 2003","203cm","86kg","Sandringham Dragons","Forward","Ruck"
+"422","7","Reeves","Ned","38","25yr 3mth","31 Oct 1998","210cm","103kg","Box Hill","Ruck",NA
+"423","26","Ryan","Bodie","0","18yr 9mth","20 Apr 2005","187cm","82kg","Glenelg","Defender","Forward"
+"424","14","Scrimshaw","Jack","83","25yr 5mth","4 Sep 1998","194cm","90kg","Sandringham Dragons","Defender",NA
+"425","29","Serong","Jai","5","20yr 11mth","16 Feb 2003","193cm","84kg","Gippsland Power","Defender","Forward"
+"426","6","Sicily","James","134","29yr 1mth","6 Jan 1995","188cm","90kg","Western Jets","Defender",NA
+"427","21","Stephens","Cooper","7","23yr","17 Jan 2001","188cm","86kg","Geelong Falcons","Midfield",NA
+"428","45","Tucker","Clay","0","19yr 5mth","9 Aug 2004","204cm","103kg","Eastern Ranges","Ruck",NA
+"429","25","Ward","Josh","30","20yr 5mth","15 Aug 2003","183cm","80kg","Northern Knights","Midfield",NA
+"430","34","Watson","Nick","0","18yr 11mth","24 Feb 2005","170cm","68kg","Eastern Ranges","Midfield","Forward"
+"431","23","Weddle","Joshua","17","19yr 8mth","25 May 2004","191cm","92kg","Oakleigh Chargers","Defender",NA
+"432","20","Wingard","Chad","218","30yr 6mth","29 Jul 1993","183cm","80kg","Sturt","Forward",NA
+"433","5","Worpel","James","102","25yr","24 Jan 1999","186cm","86kg","Geelong Falcons","Midfield",NA
+"434","26","Adams","Jed","0","19yr 8mth","14 May 2004","196cm","91kg","Peel Thunder","Defender",NA
+"435","14","Billings","Jack","155","28yr 5mth","18 Aug 1995","185cm","81kg","Oakleigh Chargers","Midfield","Forward"
+"436","17","Bowey","Jake","47","21yr 4mth","12 Sep 2002","175cm","72kg","Sandringham Dragons","Defender",NA
+"437","10","Brayshaw","Angus","167","28yr","9 Jan 1996","188cm","90kg","Sandringham Dragons","Defender","Midfield"
+"438","50","Brown","Ben","169","31yr 2mth","20 Nov 1992","200cm","100kg","Werribee Tigers","Forward",NA
+"439","41","Brown","Kynan","0","19yr","13 Jan 2005","181cm","71kg","Oakleigh Chargers","Midfield","Forward"
+"440","37","Chandler","Kade","33","24yr","13 Jan 2000","175cm","79kg","Norwood","Forward",NA
+"441","43","Farris-White","Kyah","0","20yr 1mth","2 Jan 2004","206cm","91kg","WABL","Ruck",NA
+"442","31","Fritsch","Bayley","126","27yr 2mth","6 Dec 1996","188cm","86kg","Casey Demons","Forward",NA
+"443","33","Fullarton","Tom","19","24yr 11mth","23 Feb 1999","200cm","97kg","Brisbane Bullets","Forward",NA
+"444","11","Gawn","Max","203","32yr 1mth","30 Dec 1991","209cm","110kg","Sandringham Dragons","Ruck",NA
+"445","27","Hore","Marty","14","27yr 11mth","5 Mar 1996","190cm","84kg","Collingwood Vfl","Defender",NA
+"446","22","Howes","Blake","0","20yr 9mth","7 Apr 2003","191cm","82kg","Sandringham Dragons","Defender","Midfield"
+"447","12","Hunter","Lachlan","197","29yr 1mth","13 Dec 1994","183cm","82kg","Western Jets","Midfield",NA
+"448","21","Jefferson","Matthew","0","19yr 10mth","8 Mar 2004","195cm","86kg","Oakleigh Chargers","Forward",NA
+"449","15","Langdon","Ed","157","28yr","1 Feb 1996","182cm","78kg","Sandringham Dragons","Midfield",NA
+"450","16","Laurie","Bailey","5","21yr 10mth","24 Mar 2002","179cm","79kg","Oakleigh Chargers","Midfield","Forward"
+"451","8","Lever","Jake","160","27yr 11mth","5 Mar 1996","194cm","94kg","Calder Cannons","Defender",NA
+"452","1","May","Steven","216","32yr","10 Jan 1992","193cm","101kg","Southern Districts","Defender",NA
+"453","23","McAdam","Shane","50","28yr 8mth","28 May 1995","186cm","80kg","Sturt","Forward",NA
+"454","25","McDonald","Tom","210","31yr 4mth","18 Sep 1992","195cm","101kg","North Ballarat","Forward",NA
+"455","4","McVee","Judd","25","20yr 5mth","7 Aug 2003","185cm","76kg","East Fremantle","Defender","Midfield"
+"456","18","Melksham","Jake","221","32yr 5mth","29 Aug 1991","186cm","85kg","Calder Cannons","Forward",NA
+"457","45","Moniz-Wakefield","Andy","0","20yr 3mth","26 Oct 2003","182cm","78kg","NT Thunder","Forward",NA
+"458","30","Neal-Bullen","Alex","153","28yr","9 Jan 1996","182cm","80kg","Glenelg","Forward",NA
+"459","13","Oliver","Clayton","162","26yr 6mth","22 Jul 1997","189cm","88kg","Murray Bushrangers","Midfield",NA
+"460","5","Petracca","Christian","176","28yr 1mth","4 Jan 1996","187cm","94kg","Eastern Ranges","Midfield",NA
+"461","35","Petty","Harrison","62","24yr 2mth","12 Nov 1999","197cm","94kg","Norwood","Defender","Forward"
+"462","36","Pickett","Kysaiah","85","22yr 8mth","2 Jun 2001","171cm","73kg","Woodville West Torrens","Forward",NA
+"463","24","Rivers","Trent","77","22yr 6mth","30 Jul 2001","188cm","87kg","East Fremantle","Defender",NA
+"464","3","Salem","Christian","159","28yr 6mth","15 Jul 1995","184cm","81kg","Sandringham Dragons","Defender",NA
+"465","19","Schache","Josh","75","26yr 5mth","21 Aug 1997","199cm","94kg","Murray Bushrangers","Forward",NA
+"466","38","Sestan","Oliver","0","19yr 9mth","15 Apr 2004","188cm","91kg","Mansfield","Forward",NA
+"467","29","Smith","Joel","42","27yr 11mth","25 Feb 1996","191cm","90kg","Geelong Supercats","Defender","Forward"
+"468","9","Spargo","Charlie","97","24yr 2mth","25 Nov 1999","172cm","75kg","Murray Bushrangers","Forward",NA
+"469","32","Sparrow","Tom","74","23yr 8mth","31 May 2000","183cm","85kg","South Adelaide","Midfield","Forward"
+"470","39","Tholstrup","Koltyn","0","18yr 7mth","28 Jun 2005","186cm","86kg","Subiaco","Forward",NA
+"471","20","Tomlinson","Adam","177","30yr 5mth","10 Aug 1993","194cm","95kg","Oakleigh Chargers","Defender",NA
+"472","42","Turner","Daniel","3","22yr","28 Jan 2002","194cm","87kg","Murray Bushrangers","Defender",NA
+"473","2","Van Rooyen","Jacob","20","20yr 9mth","16 Apr 2003","193cm","96kg","Claremont","Forward",NA
+"474","28","Verrall","Will","0","19yr 10mth","11 Mar 2004","199cm","95kg","South Adelaide","Ruck",NA
+"475","7","Viney","Jack","196","29yr 9mth","13 Apr 1994","179cm","93kg","Oakleigh Chargers","Midfield",NA
+"476","6","Windsor","Caleb","0","18yr 7mth","9 Jun 2005","185cm","76kg","Eastern Ranges","Midfield","Forward"
+"477","40","Woewodin","Taj","4","20yr 10mth","26 Mar 2003","182cm","81kg","East Fremantle","Midfield","Forward"
